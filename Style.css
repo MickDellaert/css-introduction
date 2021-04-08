@@ -9,7 +9,7 @@
 }
 
 body {
-    margin-top: 50px;
+    margin-top: 30px;
     margin-left: 50px;
     background: #f8f7f4;
     font-size: 14px;
@@ -21,7 +21,6 @@ body {
 
 
     font-family: sans-serif;
-
 }
 
 .info{
@@ -37,11 +36,17 @@ h1{
 }
 
 h2{
-    margin-top: 40px;
-    margin-bottom: 8px;
+    margin-top: 34px;
+    margin-bottom: 0px;
     font-size: 25px;
     color: #1c837a;
     line-height: 32px;
+}
+
+h3{
+    font-size: 14px;
+    margin-top: 4px;
+    margin-bottom: 4px;
 }
 q{
     font-size: 30px;
@@ -49,6 +54,7 @@ q{
 
 }
 .images {
+
     width: 40%
     height: 40%
     position: absolute;
@@ -57,9 +63,23 @@ q{
 
 
 .images .mickpic{
-    height: 90%;
+    height: 85%;
     position: absolute;
     right: 0;
     bottom: 0;
     transform: translateX(-50)
+}
+
+table {
+    border-collapse: collapse;
+    line-height: 26px;
+    margin-right: 4px;
+}
+
+tr{
+    border-bottom: 1px solid orangered;
+}
+
+.links a{
+    text-decoration: none;
 }
