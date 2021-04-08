@@ -2,10 +2,10 @@
     margin:0;
     padding:0;
 }
+
 .images{
     float: right;
     width: 100px;
-
 }
 
 body {
@@ -18,8 +18,6 @@ body {
 }
 
 .main{
-
-
     font-family: sans-serif;
 }
 
@@ -51,23 +49,13 @@ h3{
 q{
     font-size: 30px;
     margin-bottom: 30px;
-
 }
-.images {
-
-    width: 40%
-    height: 40%
-    position: absolute;
-    bottom: 0;
-}
-
 
 .images .mickpic{
-    height: 85%;
+    height: 95%;
     position: absolute;
     right: 0;
     bottom: 0;
-    transform: translateX(-50)
 }
 
 table {
