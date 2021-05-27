@@ -1,6 +1,6 @@
 # Title: HTML introduction
 
-Adding some style to our previously made HTML introduction page. After all the group members have made their personal page we add a link so we can cycle through all the pages and get to know each other a little better.
+Adding some style to our previously made HTML introduction page. After all the group members have made their personal page we add a link at the bottom, so we can cycle through all the pages and get to know each other a little better.
 
 You can have a look at the results over here: https://mickdellaert.github.io/css-introduction/
 
